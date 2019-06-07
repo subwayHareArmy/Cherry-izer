@@ -1,2 +1,3 @@
 # Cherry_nator
-Make any photo in the style of Nico Walker's debut novel Cherry.
+Convert any image into one in the style of the cover of Nico Walker's debut novel, 'Cherry'.
+Credit to the original designer of the book cover - Janet Hansen.
