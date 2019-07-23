@@ -1,3 +1,9 @@
-# Cherry_nator
-Convert any image into one in the style of the cover of Nico Walker's debut novel, 'Cherry'.
-Credit to the original designer of the book cover - Janet Hansen.
+# **Cherry-izer**
+Convert any image into the style of the dust jacket of Nico Walker's debut novel, *'Cherry'*.  
+
+
+
+Disclaimer:
+
+Credit for the design of the original *Cherry* cover designer - **[Janet Hansen](http://www.janet-hansen.com/)**  
+Published with permission.
